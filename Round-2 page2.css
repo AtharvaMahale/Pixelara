@@ -1,0 +1,62 @@
+body {
+    background-image: url('./round\ 2H.png'); 
+    background-size: 1420px;
+    background-repeat: no-repeat;
+  }
+
+  .card { 
+    background-color: black;
+    border-radius: 8px; 
+    padding: 20px; 
+    opacity: 0.7; 
+    margin-top: 42px;
+    margin-left: 122px;
+    height: 200px;
+    width: 400px;
+  }
+  
+  .card .card-content {
+    opacity: 1;
+    color: white;
+  }
+
+  .Pixelara{
+    color: white;
+    margin-left: 737px;
+    margin-top: -222px;
+    opacity: 0.3;
+  }
+
+  .python{
+    margin-top: 10px;
+ }
+  
+ pre{
+  color: white;
+  text-align: center;
+ }
+
+.mat{
+  margin-top: -20px;
+}
+
+.music{
+  background: transparent;
+  opacity: 0.3;
+}
+
+
+
+.output {
+  color: white;
+  font-family: "Truculenta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: larger;
+  font-variation-settings:"wdth" 100;
+}
+
+.diams{
+  color: white;
+}
